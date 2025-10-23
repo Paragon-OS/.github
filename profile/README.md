@@ -1,33 +1,47 @@
-# Paragon OS
+# ParagonOS
 
-**Building the future of AI-powered communication infrastructure**
+**AI-Powered Communication Infrastructure by Metarune Labs Pvt Ltd**
 
 ## About
 
-Paragon OS is developing a suite of Model Context Protocol (MCP) servers that enable seamless AI integration with popular messaging and communication platforms.
+ParagonOS is an enterprise-grade suite of Model Context Protocol (MCP) servers that enable seamless AI integration with modern messaging and communication platforms. We provide secure, reliable, and extensible bridges between AI assistants and the tools you use every day.
 
-## Our Projects
+## Our MCP Servers
 
-### 🔌 MCP Servers
+### 🔌 Communication Platforms
 
-We maintain private MCP server implementations for:
+- **[Discord MCP](https://github.com/Paragon-OS/paragonos-discord-self-mcp)** - Comprehensive Discord integration with channel access, message management, and server automation
+- **[Telegram MCP](https://github.com/Paragon-OS/paragonos-telegram-mcp)** - Full-featured Telegram integration with chat management, media handling, and group controls
+- **[WhatsApp MCP](https://github.com/Paragon-OS/paragonos-whatsapp-mcp)** - Secure WhatsApp integration with local storage and complete privacy control
 
-- **Discord** - Self-hosted Discord MCP server for channel access and automation
-- **Telegram** - Full-featured Telegram MCP server with comprehensive API support
-- **WhatsApp** - WhatsApp MCP server enabling programmatic messaging
-- **Google Docs** - Google Docs integration for document automation
+### 📄 Productivity Tools
+
+- **[Google Docs MCP](https://github.com/Paragon-OS/paragonos-mcp-googledocs-server)** - Advanced Google Docs and Drive integration with formatting, editing, and file management
 
 ## Technology Stack
 
 - **Protocol**: Model Context Protocol (MCP)
-- **Runtime**: Node.js / Python
-- **Architecture**: Modular server design
-- **Topics**: `paragonos-mcp`, `mcp`, platform-specific tags
+- **Languages**: TypeScript, Python, Go
+- **Runtime**: Node.js, Python 3.10+
+- **Architecture**: Modular, scalable server design
+- **Security**: OAuth 2.0, local authentication, encrypted storage
+
+## Key Features
+
+- ✅ **Privacy-First**: Local data storage and processing
+- ✅ **Enterprise-Ready**: Robust error handling and comprehensive logging
+- ✅ **Extensible**: Modular architecture for easy customization
+- ✅ **Well-Documented**: Detailed guides and examples
+- ✅ **AI-Native**: Built specifically for AI assistant integration
 
 ## Vision
 
-Our mission is to create reliable, secure, and extensible communication bridges that empower AI assistants to interact naturally with modern messaging platforms while maintaining user privacy and data security.
+Our mission is to create reliable, secure, and extensible communication infrastructure that empowers AI assistants to interact naturally with modern platforms while maintaining user privacy, data security, and complete control.
+
+## About Metarune Labs
+
+**Metarune Labs Pvt Ltd** is dedicated to building the future of AI-powered communication infrastructure. We develop enterprise-grade solutions that bridge the gap between AI assistants and modern communication platforms.
 
 ---
 
-*All repositories are private and maintained by the Paragon OS team.*
+© 2025 Metarune Labs Pvt Ltd. All repositories are private and maintained by the ParagonOS team.
