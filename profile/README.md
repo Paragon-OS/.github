@@ -17,6 +17,12 @@ ParagonOS is an enterprise-grade suite of Model Context Protocol (MCP) servers t
 ### 📄 Productivity Tools
 
 - **[Google Docs MCP](https://github.com/Paragon-OS/paragonos-mcp-googledocs-server)** - Advanced Google Docs and Drive integration with formatting, editing, and file management
+- **[Google Sheets MCP](https://github.com/Paragon-OS/paragonos-google-sheets-mcp)** - Comprehensive Google Sheets integration with data manipulation, formatting, and spreadsheet management
+
+### 🤖 AI & ML Integration
+
+- **[Ollama MCP](https://github.com/Paragon-OS/paragonos-ollama-mcp)** - Local LLM integration with Ollama for on-device AI model inference and chat capabilities
+- **[Gemini OCR MCP](https://github.com/Paragon-OS/paragonos-gemini-ocr-mcp)** - Advanced OCR and image analysis using Google's Gemini AI for document processing
 
 ## Technology Stack
 
