@@ -14,7 +14,7 @@ ParagonOS is an enterprise-grade suite of Model Context Protocol (MCP) servers t
 - **[Telegram MCP](https://github.com/Paragon-OS/paragonos-telegram-mcp)** - Full-featured Telegram integration with chat management, media handling, and group controls
 - **[WhatsApp MCP](https://github.com/Paragon-OS/paragonos-whatsapp-mcp)** - Secure WhatsApp integration with local storage and complete privacy control
 
-### 📄 Productivity Tools
+### 🚀 Productivity Tools
 
 - **[Google Docs MCP](https://github.com/Paragon-OS/paragonos-mcp-googledocs-server)** - Advanced Google Docs and Drive integration with formatting, editing, and file management
 - **[Google Sheets MCP](https://github.com/Paragon-OS/paragonos-google-sheets-mcp)** - Comprehensive Google Sheets integration with data manipulation, formatting, and spreadsheet management
